@@ -1,0 +1,17 @@
+[project]
+name = "fork"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { email = "toni.borders@informationtechconsultants.co.uk" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+fork = "fork:main"
+
+[build-system]
+requires = ["uv_build>=0.12.21,<0.13.0"]
+build-backend = "uv_build"

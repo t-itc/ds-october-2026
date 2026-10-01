@@ -1,5 +1,7 @@
 # Week 0 · Onboarding
 
+This is Toni 
+
 | Session | Notes |
 |---|---|
 | Thu 1 Oct · SDLC, Waterfall and Agile | [sdlc-agile-waterfall.html](sdlc-agile-waterfall.html) (interactive: open it in a browser) |
