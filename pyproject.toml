@@ -7,7 +7,12 @@ authors = [
     { email = "toni.borders@informationtechconsultants.co.uk" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "pandas>=3.0.6",
+    "scikit-learn>=1.9.1",
+]
 
 [project.scripts]
 fork = "fork:main"
